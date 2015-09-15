@@ -1,0 +1,5 @@
+cs6359	object oriented analysis	3		
+cs6363	Design of algorithms	3		
+cs6360	databases	3		
+cs6322	data structures	3		
+cs6388	cloud computing	3		
